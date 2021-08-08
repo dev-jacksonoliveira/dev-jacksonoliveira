@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🔭 Hoje eu trabalho com back-end
+- 🔭 Atualmente trabalho com back-end
 - 🌱 Estudando Kotlin para android 
 
 <div>
