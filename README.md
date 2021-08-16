@@ -1,7 +1,9 @@
-### Olá 👋
+### Olá, Jackson Oliveira aqui. 👋🏾
+
+*Um eterno aprendiz no mundo da programação, empolgado com as tecnologias mobile, buscando o que esse universo tem pra oferecer.*
 
 - 🔭 Atualmente trabalho com back-end
-- 🌱 Estudando Kotlin para android 
+- 🌱 Estudando Kotlin para android
 
 <div>
   <a href="https://github.com/jackend-dev">
