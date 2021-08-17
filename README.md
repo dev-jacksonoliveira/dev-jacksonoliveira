@@ -1,6 +1,6 @@
 ### Olá, Jackson Oliveira aqui. 👋🏾
 
-*Um eterno aprendiz no mundo da programação, empolgado com as tecnologias mobile, buscando o que esse universo tem pra oferecer.*
+*Um eterno aprendiz, empolgado com o universo da programação, sempre buscando o que a tecnologia tem pra oferecer.*
 
 - 🔭 Atualmente trabalho com back-end
 - 🌱 Estudando Kotlin para android
