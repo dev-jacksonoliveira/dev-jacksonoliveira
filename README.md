@@ -2,8 +2,7 @@
 
 *Um eterno aprendiz, empolgado com o universo da programação, sempre em busca do que a tecnologia pode oferecer.*
 
-- 🔭 Atualmente trabalho com back-end
-- 🌱 Estudando Kotlin para android
+- 🔭 Atualmente trabalho com mobile
 
 <div>
   <a href="https://github.com/jackend-dev">
