@@ -1,6 +1,4 @@
-### Olá, Jackson Oliveira aqui. 👋🏾
-
-*Um eterno aprendiz, empolgado com o universo da programação, sempre em busca do que a tecnologia pode oferecer.*
+### Olá 👋🏾
 
 - Atualmente trabalho com mobile :iphone:
 
